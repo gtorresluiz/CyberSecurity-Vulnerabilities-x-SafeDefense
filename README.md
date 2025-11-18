@@ -1,4 +1,10 @@
-# CyberSecurity - Ataque x Defesa
+# 👾 CyberSecurity - Ataque x Defesa
+
+## 👥 Integrantes
+
+- **Eduardo Fedeli Souza** — RM550132  
+- **Gabriel Torres Luiz** — RM98600  
+- **Otávio Vitoriano Da Silva** — RM552012  
 
 ## Laboratório de Vulnerabilidades e Correções em Python
 
