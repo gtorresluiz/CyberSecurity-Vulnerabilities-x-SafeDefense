@@ -219,9 +219,9 @@ Ferramentas analisam o código-fonte antes de rodar:
 | Semgrep                  | Falhas de validação, funções perigosas        |
 | GitHub Advanced Security | Segredos expostos                             |
 
-✔ Identifica variáveis com senhas
-✔ Identifica open() inseguro
-✔ Detecta uso sem sanitização (html.escape)
+- ✔ Identifica variáveis com senhas
+- ✔ Identifica open() inseguro
+- ✔ Detecta uso sem sanitização (html.escape)
 
 ### 🌐 2. DAST — Dynamic Application Security Testing
 Ferramentas simulam ataques enquanto o app está rodando:
@@ -231,9 +231,9 @@ Ferramentas simulam ataques enquanto o app está rodando:
 | OWASP ZAP  | XSS, Path Traversal, Race Conditions |
 | Burp Suite | XSS e manipulação de parâmetros      |
 
-✔ Testa injeção
-✔ Testa caminhos de arquivos malformados
-✔ Testa inputs maliciosos automaticamente
+- ✔ Testa injeção
+- ✔ Testa caminhos de arquivos malformados
+- ✔ Testa inputs maliciosos automaticamente
 
 ### 📦 3. SCA — Software Composition Analysis
 Analisa bibliotecas e dependências:
@@ -244,13 +244,13 @@ Analisa bibliotecas e dependências:
 | Snyk       | CVEs em dependências               |
 | Trivy      | Falhas em libs do projeto          |
 
-✔ Garante que Flask e Requests estejam atualizados
-✔ Evita uso de versões vulneráveis
+- ✔ Garante que Flask e Requests estejam atualizados
+- ✔ Evita uso de versões vulneráveis
 
 ## 📚 Conclusão
 Este projeto demonstra:
 
-✅ Como ataques reais podem ser feitos de forma simples
-✅ Como corrigir cada falha com boas práticas
-✅ Como CI/CD moderno detecta e previne vulnerabilidades
-✅ Como separar ataque ➜ defesa 
+- ✅ Como ataques reais podem ser feitos de forma simples
+- ✅ Como corrigir cada falha com boas práticas
+- ✅ Como CI/CD moderno detecta e previne vulnerabilidades
+- ✅ Como separar ataque ➜ defesa 
